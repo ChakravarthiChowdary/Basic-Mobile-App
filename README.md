@@ -19,6 +19,7 @@ expo start
 ```
 
 press a for android
+scan the QR code of the expo-cli from your phone.
 
 ## Contributing
 
