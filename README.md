@@ -3,11 +3,11 @@
 This is a mobile application for getting the posts using JSON-placeholder API.
 This is built using React-Native, React Hooks and Redux.
 
-<img align="left" src="https://github.com/ChakravarthiChowdary/Basic-Mobile-App/blob/master/assets/appScreen1.PNG" width="200" height="600" />
+<img align="left" src="https://github.com/ChakravarthiChowdary/Basic-Mobile-App/blob/master/assets/appScreen1.PNG" width="300" height="600" />
 
-<img src="https://github.com/ChakravarthiChowdary/Basic-Mobile-App/blob/master/assets/appScreen2.PNG" width="200" height="600" />
+<img src="https://github.com/ChakravarthiChowdary/Basic-Mobile-App/blob/master/assets/appScreen2.PNG" width="300" height="600" />
 
-<img  src="https://github.com/ChakravarthiChowdary/Basic-Mobile-App/blob/master/assets/appScreen3.PNG" width="200" height="600" />
+<img  src="https://github.com/ChakravarthiChowdary/Basic-Mobile-App/blob/master/assets/appScreen3.PNG" width="300" height="600" />
 
 ## Installation
 
